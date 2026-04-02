@@ -1,4 +1,4 @@
-<h1 align="center">Vedu</h1>
+<h1 align="center">VED</h1>
 <h3 align="center">Full Stack Developer • Building Scalable Systems • Clean UI Focus</h3>
 
 ---
