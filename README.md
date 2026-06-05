@@ -5,16 +5,29 @@
 
 ## 💫 About Me
 
-I’m a full-stack developer focused on building **real-world, production-ready systems** — not just projects.
+I'm a full-stack developer focused on building **real-world, production-ready systems** — not just projects.
 
 I work at the intersection of **engineering, scalability, and design**, where performance meets clean user experience.  
 My approach is to build systems that are **reliable, efficient, and designed for real usage**.
 
-I’ve developed and deployed a complete e-commerce platform (**Vinnys Vogue**) and I’m currently building an educational system (**STC**) with a strong focus on scalability, structure, and performance.
+I've developed and deployed a complete e-commerce platform (**Vinnys Vogue**), currently building an educational system (**STC**), and crafted my own **retro gaming-themed developer portfolio** with CRT effects, RPG mechanics, and live GitHub stats.
 
 ---
 
 ## 🚀 Featured Work
+
+### 🕹️ VED.EXE — Retro Gaming Developer Portfolio  
+🌐 https://ved.exe.snowbros.me/
+
+- **Retro CRT aesthetic** — scanlines, noise textures, pixel grid, neon glow effects  
+- **RPG-themed sections** — Player Profile, Quest Log, Skill Trees, Achievements  
+- **Mission Control** — Live GitHub stats dashboard (commits, languages, contribution graph)  
+- **Interactive terminal** — Working terminal commands in the contact section  
+- **Boot sequence** — Terminal-style loading screen with custom messages  
+- **Easter eggs** — Konami Code, time-of-day ambient effects  
+- Built with **Next.js 16 + React 19 + GSAP + Framer Motion + Tailwind CSS 4**
+
+---
 
 ### 🛍️ Vinnys Vogue — E-Commerce Platform  
 🌐 https://www.vinnysvogue.in/
@@ -43,6 +56,7 @@ I’ve developed and deployed a complete e-commerce platform (**Vinnys Vogue**) 
 - Clean full-stack system design  
 - Performance optimization  
 - Building fast and premium-feeling applications  
+- Interactive & creative UI/UX  
 
 ---
 
@@ -50,6 +64,7 @@ I’ve developed and deployed a complete e-commerce platform (**Vinnys Vogue**) 
 
 - Full-stack applications (Next.js, Supabase)  
 - Real-world systems (E-commerce, Education platforms)  
+- Creative developer portfolios & interactive experiences  
 
 ---
 
@@ -67,16 +82,18 @@ I’ve developed and deployed a complete e-commerce platform (**Vinnys Vogue**) 
 - Admin dashboards & role-based systems  
 - E-commerce systems (cart, checkout, orders)  
 - Educational platform systems  
+- Retro/gaming-themed UI with GSAP & Framer Motion  
 
 ---
 
 ## ⚡ Fun Fact
 
-I prefer building complete systems end-to-end — from backend logic to polished UI.
+I prefer building complete systems end-to-end — from backend logic to polished UI. My portfolio has a Konami Code easter egg — try it!
 
 ---
 
 ## 🌐 Connect
+[![Portfolio](https://img.shields.io/badge/Portfolio-ved.exe.snowbros.me-00F5FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ved.exe.snowbros.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ved-chauhan2107)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_v_e_d_2107)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/VED#2107)
@@ -92,6 +109,8 @@ I prefer building complete systems end-to-end — from backend logic to polished
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-FF0055?style=flat&logo=framer&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
