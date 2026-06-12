@@ -1,128 +1,238 @@
-<h1 align="center">VED</h1>
-<h3 align="center">Full Stack Developer • Building Scalable Systems • Clean UI Focus</h3>
+# VED CHAUHAN
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=6D28D9&text=VED%20CHAUHAN&fontColor=ffffff&fontSize=50&animation=fadeIn" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Product+Engineer;Building+Scalable+Systems;Next.js+%2B+Supabase+Specialist;Performance+Focused+Engineer)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 💫 About Me
+## About Me
 
-I'm a full-stack developer focused on building **real-world, production-ready systems** — not just projects.
+Full Stack Developer focused on building production-ready systems, scalable web applications, premium user experiences, and modern software architectures.
 
-I work at the intersection of **engineering, scalability, and design**, where performance meets clean user experience.  
-My approach is to build systems that are **reliable, efficient, and designed for real usage**.
-
-I've developed and deployed a complete e-commerce platform (**Vinnys Vogue**), currently building an educational system (**STC**), and crafted my own **retro gaming-themed developer portfolio** with CRT effects, RPG mechanics, and live GitHub stats.
-
----
-
-## 🚀 Featured Work
-
-### 🕹️ VED.EXE — Retro Gaming Developer Portfolio  
-🌐 https://ved.exe.snowbros.me/
-
-- **Retro CRT aesthetic** — scanlines, noise textures, pixel grid, neon glow effects  
-- **RPG-themed sections** — Player Profile, Quest Log, Skill Trees, Achievements  
-- **Mission Control** — Live GitHub stats dashboard (commits, languages, contribution graph)  
-- **Interactive terminal** — Working terminal commands in the contact section  
-- **Boot sequence** — Terminal-style loading screen with custom messages  
-- **Easter eggs** — Konami Code, time-of-day ambient effects  
-- Built with **Next.js 16 + React 19 + GSAP + Framer Motion + Tailwind CSS 4**
+### Open To
+- Full Stack Development
+- Product Engineering
+- Startup Collaborations
+- Open Source Contributions
+- AI-Powered Applications
 
 ---
 
-### 🛍️ Vinnys Vogue — E-Commerce Platform  
-🌐 https://www.vinnysvogue.in/
+## Tech Stack
 
-- Role-based admin dashboard  
-- Atomic cart & checkout (RPC-based operations)  
-- Order management with tracking system  
-- Secure architecture using **Supabase RLS**  
-- Built with **Next.js + Supabase**
+### Languages
+![TypeScript](https://skillicons.dev/icons?i=ts,js,java,python)
 
----
+### Frontend
+![Frontend](https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css)
 
-### 📚 STC — Educational Platform *(In Progress)*  
-🌐 https://stc.vercel.app/
+### Backend & Databases
+![Backend](https://skillicons.dev/icons?i=nodejs,supabase,postgres)
 
-- Attendance tracking system  
-- Course & structured learning management  
-- Built for real-world educational workflows  
-- Focus on scalability & performance  
+### Cloud, DevOps & Tooling
+![Tools](https://skillicons.dev/icons?i=git,github,vercel,vscode)
 
 ---
 
-## 🧠 What I Focus On
+## AI / ML Expertise
 
-- Scalable backend architecture  
-- Clean full-stack system design  
-- Performance optimization  
-- Building fast and premium-feeling applications  
-- Interactive & creative UI/UX  
-
----
-
-## 🤝 Collaboration
-
-- Full-stack applications (Next.js, Supabase)  
-- Real-world systems (E-commerce, Education platforms)  
-- Creative developer portfolios & interactive experiences  
+| Domain | Proficiency | Details |
+|----------|------------|------------|
+| AI Tooling | Intermediate | AI workflows and integrations |
+| LLM Applications | Intermediate | AI-assisted products |
+| Prompt Engineering | Advanced | Claude, Gemini, GPT workflows |
+| Product Engineering | Advanced | AI-enabled systems |
 
 ---
 
-## 🌱 Currently Learning
+## Featured Projects
 
-- Advanced system design  
-- High-scale architecture patterns  
-- Optimization strategies for production systems  
+<details>
+<summary><b>VED.EXE â Retro Gaming Developer Portfolio</b></summary>
+
+Production-ready developer portfolio featuring CRT effects, terminal UI, RPG mechanics and live GitHub integrations.
+
+| Category | Details |
+|-----------|---------|
+| Stack | Next.js 16, React 19, GSAP |
+| Scale | Personal Branding Platform |
+| Performance | Optimized |
+| Security | Modern Web Standards |
+| Impact | Developer Presence |
+| Repository | github.com/VED2107 |
+
+</details>
+
+<details>
+<summary><b>Vinnys Vogue â E-Commerce Platform</b></summary>
+
+Role-based fashion commerce platform with checkout, tracking and admin management.
+
+| Category | Details |
+|-----------|---------|
+| Stack | Next.js, Supabase |
+| Scale | E-Commerce |
+| Performance | Optimized |
+| Security | RLS |
+| Impact | Business Operations |
+| Repository | Private |
+
+</details>
+
+<details>
+<summary><b>Lunora Studio â Creative Commerce Platform</b></summary>
+
+Digital products and creative services platform focused on premium UX and conversion optimization.
+
+| Category | Details |
+|-----------|---------|
+| Stack | Next.js, Supabase, GSAP |
+| Scale | Creative Business |
+| Performance | Mobile Optimized |
+| Security | Auth Enabled |
+| Impact | Revenue Platform |
+| Repository | Private |
+
+</details>
+
+<details>
+<summary><b>STC â Educational Platform</b></summary>
+
+Attendance, learning management and educational workflow system.
+
+| Category | Details |
+|-----------|---------|
+| Stack | Next.js |
+| Scale | Education |
+| Performance | High |
+| Security | Protected Access |
+| Impact | Academic Workflow |
+| Repository | Private |
+
+</details>
 
 ---
 
-## 💬 Ask Me About
+## Experience
 
-- Next.js + Supabase architecture  
-- Admin dashboards & role-based systems  
-- E-commerce systems (cart, checkout, orders)  
-- Educational platform systems  
-- Retro/gaming-themed UI with GSAP & Framer Motion  
+### Founder & Full Stack Developer
+**Independent Product Development**
 
----
-
-## ⚡ Fun Fact
-
-I prefer building complete systems end-to-end — from backend logic to polished UI. My portfolio has a Konami Code easter egg — try it!
+- Designed and deployed multiple production applications
+- Built scalable Next.js + Supabase systems
+- Created premium UI experiences
+- Focused on performance optimization
 
 ---
 
-## 🌐 Connect
-[![Portfolio](https://img.shields.io/badge/Portfolio-ved.exe.snowbros.me-00F5FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ved.exe.snowbros.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ved-chauhan2107)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_v_e_d_2107)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/VED#2107)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:VEDCHAUHAN2107@GMAIL.COM)
+## Achievements
+
+| Recognition | Details |
+|-------------|---------|
+| Product Builder | Multiple deployed applications |
+| Full Stack Developer | End-to-end system development |
+| UI Engineer | Premium interface development |
+| Problem Solver | Real-world product engineering |
 
 ---
 
-## 💻 Tech Stack
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-FF0055?style=flat&logo=framer&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+## Certifications
+
+### AWS
+![AWS](https://img.shields.io/badge/AWS-Learning-6D28D9?style=for-the-badge)
+
+### Oracle
+![Oracle](https://img.shields.io/badge/Oracle-Learning-6D28D9?style=for-the-badge)
+
+### NPTEL
+![NPTEL](https://img.shields.io/badge/NPTEL-Courses-6D28D9?style=for-the-badge)
+
+### Cisco
+![Cisco](https://img.shields.io/badge/Cisco-Learning-6D28D9?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=VED2107&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+## Coding Profiles
 
-![](https://nirzak-streak-stats.vercel.app/?user=VED2107&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VED2107&theme=tokyonight&hide_border=true&layout=compact)
+![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge)
+![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-6D28D9?style=for-the-badge)
+![HackerRank](https://img.shields.io/badge/HackerRank-Profile-6D28D9?style=for-the-badge)
+![CodeChef](https://img.shields.io/badge/CodeChef-Profile-6D28D9?style=for-the-badge)
 
 ---
+
+## GitHub Analytics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=VED2107&show_icons=true&theme=tokyonight)
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=VED2107&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VED2107&layout=compact&theme=tokyonight)
+
+---
+
+## GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=VED2107&theme=tokyonight)
+
+---
+
+## Contribution Activity
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=VED2107&theme=tokyo-night)
+
+---
+
+## Contribution Snake
+
+```yaml
+snake_animation:
+  enabled: true
+```
+
+---
+
+## Current Focus
+
+```yaml
+learning:
+  - Advanced System Design
+  - High Scale Architecture
+
+building:
+  - Lunora Studio
+  - STC Platform
+
+exploring:
+  - AI Agents
+  - Automation Systems
+
+open_to:
+  - Collaborations
+  - Freelance Projects
+  - Startup Opportunities
+```
+
+---
+
+## Connect
+
+- Portfolio: https://ved.exe.snowbros.me
+- GitHub: https://github.com/VED2107
+- LinkedIn: https://linkedin.com/in/ved-chauhan2107
+- Email: VEDCHAUHAN2107@gmail.com
+
+---
+
+> Building systems that scale, perform, and create real-world impact.
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=6D28D9" />
+
+</div>
