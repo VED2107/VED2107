@@ -2,9 +2,10 @@ name: 🤖 Auto Commit Bot
 
 on:
   schedule:
-    # Runs every 6 hours (4 commits per day)
-    # Cron: minute hour day-of-month month day-of-week
-    - cron: '0 */6 * * *'
+    # 3 commits per day at different times (IST = UTC + 5:30)
+    - cron: '0 2 * * *'    # 7:30 AM IST  — Morning push
+    - cron: '30 8 * * *'   # 2:00 PM IST  — Afternoon push
+    - cron: '0 17 * * *'   # 10:30 PM IST — Night push
   workflow_dispatch: # Allow manual trigger from GitHub Actions tab
 
 permissions:
