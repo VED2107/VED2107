@@ -154,13 +154,13 @@ Attendance, learning management and educational workflow system.
 
 | Domain | Level | Proficiency |
 |--------|-------|-------------|
-| **Full Stack Development** | ⭐⭐⭐⭐⭐ | Next.js + Supabase full-feature apps |
-| **Database Design** | ⭐⭐⭐⭐⭐ | PostgreSQL schema, RLS, migrations |
-| **Frontend Performance** | ⭐⭐⭐⭐⭐ | Core Web Vitals optimization |
+| **Full Stack Development** | ⭐⭐⭐⭐ | Next.js + Supabase full-feature apps |
+| **Database Design** | ⭐⭐⭐⭐ | PostgreSQL schema, RLS, migrations |
+| **Frontend Performance** | ⭐⭐⭐⭐ | Core Web Vitals optimization |
 | **Product Engineering** | ⭐⭐⭐⭐⭐ | User research → deployment |
-| **AI/LLM Integration** | ⭐⭐⭐⭐☆ | Claude, GPT, Gemini API workflows |
+| **AI/LLM Integration** | ⭐⭐⭐⭐⭐ | Claude, GPT, Gemini API workflows |
 | **Prompt Engineering** | ⭐⭐⭐⭐⭐ | Multi-turn conversations, RAG systems |
-| **System Design** | ⭐⭐⭐⭐☆ | Scalability, caching, async workflows |
+| **System Design** | ⭐⭐⭐⭐ | Scalability, caching, async workflows |
 
 ---
 
