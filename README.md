@@ -169,7 +169,7 @@ Attendance, learning management and educational workflow system.
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
 <img src="https://img.shields.io/badge/NPTEL-6D28D9?style=for-the-badge&logo=coursera&logoColor=white" alt="NPTEL" />
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+
 
 ---
 
