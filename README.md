@@ -107,9 +107,9 @@ As of **v0.4.0** Atlas is multi-language by architecture: **JavaScript, TypeScri
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VED2107/VED2107/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VED2107/VED2107/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/VED2107/VED2107/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VED2107/VED2107/output/github-contribution-grid-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VED2107/VED2107/output/github-contribution-grid-snake.svg?v=2" />
+  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/VED2107/VED2107/output/github-contribution-grid-snake.svg?v=2" />
 </picture>
 
 </div>
