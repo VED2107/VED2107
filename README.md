@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6D28D9,7E22CE,9333EA,3ECF8E&text=VED%20CHAUHAN&fontColor=ffffff&fontSize=70&animation=fadeIn&section=header&desc=Founder%20%40%20SNOWBROS%20%C2%B7%20Systems%20%26%20Dev-Tools%20Engineer&descSize=18&descAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6D28D9,7E22CE,9333EA,3ECF8E&text=VED%20CHAUHAN&fontColor=ffffff&fontSize=70&animation=fadeIn&section=header&desc=Founder%20%40%20SNOWBROS%20%C2%B7%20Systems%20%26amp;%20Dev-Tools%20Engineer&descSize=18&descAlignY=62" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=600&center=true&vCenter=true&multiline=true&width=820&height=120&color=9333EA&lines=Founder+%40+SNOWBROS+%E2%80%94+software+engineering+studio;Systems+%26+Developer-Tools+Engineer;Rust+%C2%B7+TypeScript+%C2%B7+Python;Building+Atlas+%E2%80%94+a+multi-language+static+analyzer)](https://github.com/VED2107)
 
