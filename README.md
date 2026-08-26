@@ -20,7 +20,7 @@
 I'm **Ved Chauhan** — founder of **[SNOWBROS](https://snowbros.me)**, an independent software engineering studio. I build across two worlds:
 
 - **Developer tools & systems** — writing a **native Rust** static-analysis engine ([Snowbros Atlas](https://github.com/snowbros-labs/atlas)) with a shared semantic IR, a tree-sitter frontend per language, a built-in LSP, and a VS Code extension.
-- **Full-stack products** — shipping production **Next.js + Supabase** applications, from luxury e-commerce to education platforms, to paying customers.
+- **Full-stack products** — shipping production **Next.js + Supabase** applications, from luxury e-commerce to education platforms, to paying customers — plus cross-platform work like **[Accounic](https://github.com/VED2107/accounic)**, a multi-currency ledger running on web, Android and Windows off one schema.
 
 I care about work that is **deterministic, provable, and fast** — and about UI that feels premium.
 
@@ -152,6 +152,26 @@ A capability orchestrator that composes only the specialist expertise a task nee
 </details>
 
 <details>
+<summary><b>📒 Accounic — Multi-Currency Accounting Ledger (3 clients, 1 backend)</b></summary>
+
+<br>
+
+A personal accounting system where the database owns every balance and no client ever adds up a column. Web, Android and Windows all speak to the same Postgres schema through the same validated RPCs.
+
+| Category | Details |
+|----------|---------|
+| Stack | Next.js 15 · React 19 · Flutter 3.29 · Supabase / PostgreSQL |
+| Clients | Web, Android APK, Windows installer — one shared data contract |
+| Accounting | FIFO settlement allocator, opening balances, retractable history |
+| Multi-currency | Entries keep the currency they were *entered* in; base-currency totals are supplementary, never a replacement. Live mid-market rates (open.er-api.com → ECB fallback) |
+| Security | Forced RLS on every table, `anon` holds no EXECUTE in `public`, CSP/HSTS, host-allow-listed update links |
+| Tests | 234 SQL assertions · 180 Flutter · 64 web · 71 tenant-isolation checks over real HTTP |
+| Updates | Checks GitHub Releases on launch and offers the new build |
+| Repo | [github.com/VED2107/accounic](https://github.com/VED2107/accounic) |
+
+</details>
+
+<details>
 <summary><b>🎮 VED.EXE — Retro-Gaming Developer Portfolio</b></summary>
 
 <br>
@@ -213,8 +233,8 @@ Cinematic GSAP storytelling landing page + full commerce workflow for handmade b
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VED2107&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VED2107&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VED2107&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VED2107&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=VED2107&theme=tokyonight&hide_border=true)
 
