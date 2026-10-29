@@ -1,289 +1,172 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6D28D9,7E22CE,9333EA,3ECF8E&text=VED%20CHAUHAN&fontColor=ffffff&fontSize=70&animation=fadeIn&section=header&desc=Founder%20%40%20SNOWBROS%20%C2%B7%20Systems%20%26amp;%20Dev-Tools%20Engineer&descSize=18&descAlignY=62" width="100%" />
+<a href="https://ved.exe.snowbros.me" title="Launch the interactive developer portfolio">
+  <img src="./assets/cover.svg" width="100%" alt="Ved Chauhan, founder of SNOWBROS. I build the engine and the experience. Original command-center artwork." />
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=600&center=true&vCenter=true&multiline=true&width=820&height=120&color=9333EA&lines=Founder+%40+SNOWBROS+%E2%80%94+software+engineering+studio;Systems+%26+Developer-Tools+Engineer;Rust+%C2%B7+TypeScript+%C2%B7+Python;Building+Atlas+%E2%80%94+a+multi-language+static+analyzer)](https://github.com/VED2107)
+<a href="https://snowbros.me"><img src="https://img.shields.io/badge/SNOWBROS-FOUNDER-8B7AFF?style=flat-square&labelColor=0D1224&logo=rocket&logoColor=white" alt="SNOWBROS founder" /></a>
+<a href="https://ved.exe.snowbros.me"><img src="https://img.shields.io/badge/ENTER-VED.EXE-8AF5D7?style=flat-square&labelColor=0D1224&logo=vercel&logoColor=white" alt="Interactive portfolio" /></a>
+<a href="https://www.linkedin.com/in/ved-chauhan2107/"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-8B7AFF?style=flat-square&labelColor=0D1224&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:vedchauhan2107@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EMAIL-8AF5D7?style=flat-square&labelColor=0D1224&logo=gmail&logoColor=white" alt="Email Ved" /></a>
 
-<a href="https://snowbros.me"><img src="https://img.shields.io/badge/SNOWBROS-6D28D9?style=for-the-badge&logo=rocket&logoColor=white" alt="SNOWBROS" /></a>
-<a href="https://ved.exe.snowbros.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/ved-chauhan2107"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:vedchauhan2107@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=VED2107&style=flat-square&color=6D28D9&label=Profile+Views)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2900&pause=1000&color=9A8BFF&center=true&vCenter=true&width=730&height=40&lines=Making+software+feel+as+good+as+it+works.;Systems+thinking.+Product+instinct.+Pixel+obsession.;Less+noise.+More+engineering." alt="Making software feel as good as it works." />
+
+<sub>AHMEDABAD, INDIA &nbsp; / &nbsp; BUILDING FOR THE INTERNET &nbsp; / &nbsp; <a href="https://github.com/snowbros-labs">SNOWBROS LABS</a></sub>
 
 </div>
 
 ---
 
-## 🧠 About Me
+### `01 // WHOAMI`
 
-I'm **Ved Chauhan** — founder of **[SNOWBROS](https://snowbros.me)**, an independent software engineering studio. I build across two worlds:
+I'm **Ved Chauhan**, founder of **[SNOWBROS](https://snowbros.me)** — an independent software engineering studio. I work at the intersection of **deep engineering** and **expressive product design**.
 
-- **Developer tools & systems** — writing a **native Rust** static-analysis engine ([Snowbros Atlas](https://github.com/snowbros-labs/atlas)) with a shared semantic IR, a tree-sitter frontend per language, a built-in LSP, and a VS Code extension.
-- **Full-stack products** — shipping production **Next.js + Supabase** applications, from luxury e-commerce to education platforms, to paying customers — plus cross-platform work like **[Accounic](https://github.com/VED2107/accounic)**, a multi-currency ledger running on web, Android and Windows off one schema.
+I build tools that understand code, products that people use, and interfaces that feel like someone cared about every detail. Sometimes that's a Rust analysis engine. Sometimes it's a cross-platform ledger. Sometimes it's a portfolio masquerading as a retro game.
 
-I care about work that is **deterministic, provable, and fast** — and about UI that feels premium.
+> **My rule:** make the core dependable, then make the experience unforgettable.
 
-```rust
-struct Engineer {
-    name: &'static str,
-    studio: &'static str,
-    focus: [&'static str; 3],
-    principle: &'static str,
-}
+<table>
+<tr><td width="33%" valign="top"><b>ENGINEER</b><p>Systems, developer tools, architecture, security, and correctness.</p></td>
+<td width="33%" valign="top"><b>DESIGN</b><p>Interaction, motion, visual identity, and thoughtful details.</p></td>
+<td width="34%" valign="top"><b>SHIP</b><p>Real products, real deployments, and long-term ownership.</p></td></tr>
+</table>
 
-fn main() {
-    let ved = Engineer {
-        name: "Ved Chauhan",
-        studio: "SNOWBROS",
-        focus: ["Developer Tools", "Systems (Rust)", "Full-Stack Products"],
-        principle: "Same input in, same result out — accuracy over quantity.",
-    };
-    println!("{} builds {} kinds of things.", ved.name, ved.focus.len());
-}
+<div align="center">
+
+[**Explore the work ↓**](#02--selected-work) &nbsp; · &nbsp; [**See my toolbox ↓**](#03--the-toolbox) &nbsp; · &nbsp; [**Start a conversation ↓**](#05--open-channel)
+
+</div>
+
+---
+
+### `02 // SELECTED WORK`
+
+Not a wall of logos. A few projects with real, different problems to solve.
+
+<a href="https://github.com/snowbros-labs/atlas"><img src="./assets/project-atlas.svg" width="100%" alt="Snowbros Atlas: native Rust static analyzer. Codebase to semantic intermediate representation to evidence-backed findings." /></a>
+
+**[Explore Atlas](https://github.com/snowbros-labs/atlas)** · **[Product website](https://snowbros.me/atlas)** · **[Installation](https://github.com/snowbros-labs/atlas#installation)**
+
+**The problem:** most linters understand individual files; serious architecture issues live *between* files. Atlas maps imports, dependencies, and framework boundaries across a project, reporting findings with an evidence trail.
+
+- **Under the hood:** Rust, tree-sitter, shared semantic intermediate representation, incremental caching, built-in LSP, and CI-ready SARIF.
+- **Beyond style:** detects issues such as import cycles, unused dependencies, and Next.js server/client boundary leaks. Supports JavaScript/TypeScript and Python.
+- **Try it:** `npx snowbros analyze`.
+
+<br/>
+
+<a href="https://github.com/VED2107/accounic"><img src="./assets/project-accounic.svg" width="100%" alt="Accounic: one secure database-owned ledger powering Next.js web, Flutter Android, and Flutter Windows apps." /></a>
+
+**[Explore Accounic](https://github.com/VED2107/accounic)** · **[Latest release](https://github.com/VED2107/accounic/releases/latest)**
+
+**The problem:** money becomes unreliable when different clients each invent their own accounting rules. Accounic puts the calculations in PostgreSQL, not in the interface.
+
+- **One contract, three clients:** Next.js web app, Flutter Android, and Flutter Windows.
+- **Correctness first:** entered currency preserved, settlement rules enforced, validated RPCs, row-level security, and automated tests.
+- **Design detail:** interface inspired by financial instruments — typography, seals, counterfoils, and meaningful state.
+
+<br/>
+
+<a href="https://ved.exe.snowbros.me"><img src="./assets/project-vedexe.svg" width="100%" alt="VED.EXE: playful interactive developer portfolio with terminal visuals, game mechanics, and custom motion." /></a>
+
+**[Launch VED.EXE](https://ved.exe.snowbros.me)** · **[Explore source](https://github.com/VED2107/portfolio)**
+
+**The idea:** a portfolio doesn't have to feel like a static résumé. VED.EXE treats developer identity as an interactive world — CRT-inspired interfaces, terminal aesthetics, game mechanics, and expressive motion, built with Next.js, React, TypeScript, and GSAP.
+
+<br/>
+
+<details>
+<summary><b>+ UNLOCK THE SIDE QUESTS / OTHER BUILDS</b></summary>
+
+<br/>
+
+| Project | What it is | Link |
+|:--|:--|:--|
+| **Mentor** | Engineering skill for Claude Code with focused TEACH and BUILD workflows. | [Open source](https://github.com/snowbros-labs/mentor-skill) |
+| **Vinnys Vogue** | Luxury fashion commerce, orders, and storefront operations. | [Website](https://www.vinnysvogue.in) |
+| **Lunora Studio** | Cinematic handmade-bouquet commerce and storytelling. | [Source](https://github.com/VED2107/lunora-studio) |
+| **STC** | Student education and attendance platform. | [Source](https://github.com/VED2107/STC) |
+| **Filmica** | Flutter camera experience with film-inspired effects. | [Source](https://github.com/VED2107/filmica) |
+
+</details>
+
+---
+
+### `03 // THE TOOLBOX`
+
+**The tools change. The fundamentals don't.** I choose the stack for the problem, not the other way around.
+
+| Layer | Tools |
+|:--|:--|
+| **Languages** | Rust · TypeScript · JavaScript · Python · Dart · SQL |
+| **Product interfaces** | Next.js · React · Flutter · Tailwind · GSAP · shadcn/ui |
+| **Backend and data** | PostgreSQL · Supabase · Node.js · Prisma · Firebase |
+| **Infrastructure** | tree-sitter · Language Server Protocol · GitHub Actions · Docker |
+| **Practices** | Architecture · security · testing · performance · interaction design |
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=rust,ts,python,nextjs,react,tailwind,flutter,supabase,postgres,docker,git&perline=11&theme=dark" alt="Rust, TypeScript, Python, Next.js, React, Tailwind, Flutter, Supabase, PostgreSQL, Docker and Git" />
+</div>
+
+<details>
+<summary><b>+ OPEN THE ENGINEERING MANIFESTO</b></summary>
+
+<br/>
+
+```text
+01  TRACE THE TRUTH     > Prefer evidence to guesses.
+02  OWN THE CONTRACT    > Put invariants where they can be enforced.
+03  DESIGN THE DETAILS  > Microinteractions are part of quality.
+04  TEST THE EDGES      > Happy paths are not a test strategy.
+05  SHIP & MAINTAIN     > Production is the start, not the finish.
 ```
 
+</details>
+
 ---
 
-## 🚀 Flagship: Snowbros Atlas
+### `04 // GITHUB SIGNAL`
 
 <div align="center">
 
-**A deterministic, multi-language static-analysis engine — written in Rust.**
+<a href="https://github.com/VED2107?tab=repositories"><img height="166" src="https://github-readme-stats.vercel.app/api?username=VED2107&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1325&title_color=A899FF&icon_color=83EDD6&text_color=D6E2F5" alt="GitHub statistics" /></a>
+<a href="https://github.com/VED2107?tab=repositories"><img height="166" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VED2107&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1325&title_color=A899FF&text_color=D6E2F5&langs_count=7" alt="Programming language proportions across public repositories" /></a>
 
-<a href="https://github.com/snowbros-labs/atlas"><img src="https://img.shields.io/github/stars/snowbros-labs/atlas?style=for-the-badge&logo=github&color=6D28D9&labelColor=1a1a2e" alt="Stars" /></a>
-<a href="https://crates.io/crates/snowbros-atlas"><img src="https://img.shields.io/crates/v/snowbros-atlas?style=for-the-badge&logo=rust&color=DE5833&labelColor=1a1a2e&label=crates.io" alt="crates.io" /></a>
-<a href="https://www.npmjs.com/package/snowbros"><img src="https://img.shields.io/npm/v/snowbros?style=for-the-badge&logo=npm&color=CB3837&labelColor=1a1a2e" alt="npm" /></a>
-<a href="https://marketplace.visualstudio.com/items?itemName=snowbros.snowbros-atlas"><img src="https://img.shields.io/visual-studio-marketplace/v/snowbros.snowbros-atlas?style=for-the-badge&logo=visualstudiocode&color=007ACC&labelColor=1a1a2e&label=VS%20Code" alt="VS Code Marketplace" /></a>
+<sub>Automated GitHub metadata, not a score of engineering ability.</sub>
 
 </div>
 
-As of **v0.4.0** Atlas is multi-language by architecture: **JavaScript, TypeScript, React, Next.js, and Python** all lower into **one shared semantic IR**, and every rule is either language-agnostic or scoped to a language family in one place — never an `if language ==` branch inside a detector. It builds whole-project symbol, import, and file graphs, then reports problems it can **prove** — circular imports, dead files, server/client boundary leaks, React hook misuse, unused deps, hardcoded secrets, oversized functions — each with an evidence chain. Ships an LSP + VS Code extension, SARIF/JSON/HTML/Markdown reports, and a guarded auto-fix engine. **23 rules**, cross-platform, published to crates.io, npm, Homebrew, and the VS Code Marketplace.
+<details>
+<summary><b>+ EASTER EGG / THE CONTRIBUTION SNAKE</b></summary>
 
-> Also building **[Mentor](https://github.com/snowbros-labs/mentor-skill)** — an engineering-intelligence orchestrator skill for Claude Code (TEACH or BUILD mode across the whole stack).
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Rust](https://img.shields.io/badge/Rust-DE5833?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88C430?style=for-the-badge&logo=greensock&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-**Systems & Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tree-sitter](https://img.shields.io/badge/Tree--sitter-000000?style=for-the-badge&logo=treehouse&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-**Mobile & Cloud**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🐍 Watch my contributions get eaten
+<br/>
 
 <div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VED2107/VED2107/output/github-contribution-grid-snake-dark.svg?v=2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VED2107/VED2107/output/github-contribution-grid-snake.svg?v=2" />
-  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/VED2107/VED2107/output/github-contribution-grid-snake.svg?v=2" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VED2107/VED2107/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VED2107/VED2107/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/VED2107/VED2107/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake generated automatically from Ved's GitHub activity" />
 </picture>
-
 </div>
 
----
-
-## 💼 Featured Projects
-
-<details open>
-<summary><b>🦀 Snowbros Atlas — Multi-Language Static Analysis Engine (Rust)</b></summary>
-
-<br>
-
-Deterministic engineering-intelligence platform. One shared semantic IR across JS/TS and Python; the same rule runs on every language it applies to.
-
-| Category | Details |
-|----------|---------|
-| Stack | Rust, Tree-sitter, LSP, VS Code API |
-| Languages analyzed | JavaScript, TypeScript, React, Next.js, Python |
-| Distribution | crates.io · npm · Homebrew · VS Code Marketplace |
-| Highlights | Shared IR · 23 rules · evidence-first · guarded auto-fix · SARIF/LSP |
-| Repo | [github.com/snowbros-labs/atlas](https://github.com/snowbros-labs/atlas) |
-| Live | [snowbros.me/atlas](https://snowbros.me/atlas) |
-
-</details>
-
-<details>
-<summary><b>🤖 Mentor — Engineering-Intelligence Skill for Claude Code</b></summary>
-
-<br>
-
-A capability orchestrator that composes only the specialist expertise a task needs, in TEACH or BUILD mode across the whole stack.
-
-| Category | Details |
-|----------|---------|
-| Type | Claude Code skill / orchestrator |
-| Repo | [github.com/snowbros-labs/mentor-skill](https://github.com/snowbros-labs/mentor-skill) |
-| Focus | Software · backend · frontend · architecture · security · AI · DevOps |
-
-</details>
-
-<details>
-<summary><b>📒 Accounic — Multi-Currency Accounting Ledger (3 clients, 1 backend)</b></summary>
-
-<br>
-
-A personal accounting system where the database owns every balance and no client ever adds up a column. Web, Android and Windows all speak to the same Postgres schema through the same validated RPCs.
-
-| Category | Details |
-|----------|---------|
-| Stack | Next.js 15 · React 19 · Flutter 3.29 · Supabase / PostgreSQL |
-| Clients | Web, Android APK, Windows installer — one shared data contract |
-| Accounting | FIFO settlement allocator, opening balances, retractable history |
-| Multi-currency | Entries keep the currency they were *entered* in; base-currency totals are supplementary, never a replacement. Live mid-market rates (open.er-api.com → ECB fallback) |
-| Security | Forced RLS on every table, `anon` holds no EXECUTE in `public`, CSP/HSTS, host-allow-listed update links |
-| Tests | 234 SQL assertions · 180 Flutter · 64 web · 71 tenant-isolation checks over real HTTP |
-| Updates | Checks GitHub Releases on launch and offers the new build |
-| Repo | [github.com/VED2107/accounic](https://github.com/VED2107/accounic) |
-
-</details>
-
-<details>
-<summary><b>🎮 VED.EXE — Retro-Gaming Developer Portfolio</b></summary>
-
-<br>
-
-Production developer portfolio with CRT effects, terminal UI, RPG mechanics, and live GitHub integrations.
-
-| Category | Details |
-|----------|---------|
-| Stack | Next.js 16, React 19, GSAP, TypeScript |
-| Live | [ved.exe.snowbros.me](https://ved.exe.snowbros.me) |
-| Features | CRT effects, terminal UI, RPG mechanics, GitHub GraphQL integration |
-
-</details>
-
-<details>
-<summary><b>🛍️ Vinnys Vogue — Luxury Fashion E-Commerce</b></summary>
-
-<br>
-
-Role-based fashion commerce platform with checkout, order tracking, and admin management.
-
-| Category | Details |
-|----------|---------|
-| Stack | Next.js, Supabase, PostgreSQL |
-| Features | Catalog, cart, payments, order tracking, admin dashboard |
-| Security | Row-Level Security (RLS), auth |
-| Live | [vinnysvogue.in](https://www.vinnysvogue.in) |
-
-</details>
-
-<details>
-<summary><b>✨ Lunora Studio — Handmade Bouquet E-Commerce</b></summary>
-
-<br>
-
-Cinematic GSAP storytelling landing page + full commerce workflow for handmade bouquets.
-
-| Category | Details |
-|----------|---------|
-| Stack | Next.js, Supabase, GSAP, shadcn/ui |
-| Features | Custom bouquet requests, coupon engine, admin analytics, CMS |
-| Live | [lunorastudio.vercel.app](https://lunorastudio.vercel.app) |
-
-</details>
-
-<details>
-<summary><b>📚 STC — Education Platform · 🎥 Filmica — Flutter Camera App</b></summary>
-
-<br>
-
-**STC** — learning-management + attendance system for students (Next.js, Supabase, RBAC). <br>
-**Filmica** — cross-platform film-companion camera app with AI-powered GLSL shader effects (Flutter, Dart, Firebase).
-
 </details>
 
 ---
 
-## 📊 GitHub Analytics
+### `05 // OPEN CHANNEL`
+
+**Have a difficult engineering problem, an ambitious product idea, or something that demands both logic and taste?** I build developer tools, products, and carefully designed web experiences through SNOWBROS.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VED2107&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VED2107&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
+**[VISIT SNOWBROS](https://snowbros.me)** &nbsp; · &nbsp; **[OPEN VED.EXE](https://ved.exe.snowbros.me)** &nbsp; · &nbsp; **[LINKEDIN](https://www.linkedin.com/in/ved-chauhan2107/)** &nbsp; · &nbsp; **[EMAIL ME](mailto:vedchauhan2107@gmail.com)**
 
-![GitHub Streak](https://streak-stats.demolab.com?user=VED2107&theme=tokyonight&hide_border=true)
+<br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VED2107&theme=tokyo-night&hide_border=true&area=true)
+<a href="mailto:vedchauhan2107@gmail.com"><img src="./assets/signoff.svg" width="100%" alt="Let's build what doesn't exist yet. Contact Ved Chauhan and SNOWBROS." /></a>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=VED2107&theme=tokyonight&no-frame=true&column=7&margin-w=8)
-
-</div>
-
----
-
-## 🧭 What I'm Building Next
-
-```yaml
-now:
-  - Atlas M4 — more language frontends (Go, Rust, Java) on the shared IR
-  - Cross-language rules driven by real-world feedback
-  - Mentor — expanding the capability orchestrator
-
-principles:
-  - Deterministic: same code + config -> same findings, always
-  - Provable: never guess; unresolved is labeled, not hidden
-  - Fast: native Rust, incremental cache, run-on-save speed
-
-open_to:
-  - Developer-tools / systems engineering
-  - Product engineering & founder collaborations
-  - Open-source contributions
-```
-
----
-
-## 🎓 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/ved-chauhan2107/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" /></a>
-<a href="https://www.geeksforgeeks.org/user/ved-chauhan2107/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-<a href="https://www.hackerrank.com/ved-chauhan2107/"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-<a href="https://www.codechef.com/users/ved-chauhan2107/"><img src="https://img.shields.io/badge/CodeChef-5B4D37?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=gradient&customColorList=6D28D9,7E22CE,9333EA,3ECF8E" width="100%" />
-
-**Building systems that are deterministic, provable, and fast.**
+<sub>Original SVG art, GitHub-native Markdown interactions, no scripts or artificial activity.</sub>
 
 </div>

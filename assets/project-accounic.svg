@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="ACCOUNIC project presentation"><defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080D1A"/><stop offset=".55" stop-color="#171831"/><stop offset="1" stop-color="#092222"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#8B7AFF"/><stop offset="1" stop-color="#7EF4CF"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity=".045"/></pattern>
+<radialGradient id="light"><stop stop-color="#8F80FF" stop-opacity=".18"/><stop offset="1" stop-color="#8F80FF" stop-opacity="0"/></radialGradient></defs>
+<rect width="1280" height="320" rx="18" fill="url(#bg)"/><rect width="1280" height="320" rx="18" fill="url(#grid)"/>
+<circle cx="1050" cy="160" r="300" fill="url(#light)"/>
+<rect x="42" y="36" width="6" height="29" rx="3" fill="#7DF3D5"/>
+<text x="63" y="57" font-family="Consolas,monospace" font-size="16" letter-spacing="1.7" fill="#7DF3D5">02 / PRODUCT ENGINEERING</text>
+<text x="51" y="139" font-family="Arial,Helvetica,sans-serif" font-size="65" letter-spacing="-2" font-weight="900" fill="#F9FAFF">ACCOUNIC</text>
+<text x="53" y="188" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#E3EBF9">A multi-currency ledger built to stay correct.</text>
+<text x="53" y="221" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#E3EBF9">Three clients. One contract. Database-owned balances.</text>
+<path d="M53 257H570" stroke="#ACB8DD" stroke-opacity=".27"/>
+<text x="53" y="284" font-family="Consolas,monospace" font-size="14" fill="#A6B4D4">NEXT.JS · FLUTTER · POSTGRESQL · RLS</text>
+<path d="M608 34V287" stroke="#A9A5EF" stroke-opacity=".2"/>
+<g font-family="Consolas,monospace" text-anchor="middle">
+<rect x="656" y="59" width="168" height="55" rx="11" fill="#113B40" stroke="#7BECD9"/><rect x="656" y="133" width="168" height="55" rx="11" fill="#113B40" stroke="#7BECD9"/><rect x="656" y="206" width="168" height="55" rx="11" fill="#113B40" stroke="#7BECD9"/>
+<text x="740" y="94" font-size="16" fill="#C5FFF3">WEB</text><text x="740" y="168" font-size="16" fill="#C5FFF3">ANDROID</text><text x="740" y="242" font-size="16" fill="#C5FFF3">WINDOWS</text>
+<path d="M824 86h55v74h53M824 160h108M824 234h55v-74" fill="none" stroke="#80E7D6" stroke-width="2.5"/>
+<circle cx="933" cy="160" r="7" fill="#B5FFED"/>
+<rect x="961" y="103" width="247" height="117" rx="16" fill="#103337" stroke="#7AE8D5" stroke-width="2"/>
+<ellipse cx="1084" cy="134" rx="66" ry="16" fill="#1C4D4B" stroke="#96FBE4" stroke-width="2"/>
+<path d="M1018 135v50Q1084 218 1150 185v-50" fill="#17413F" stroke="#96FBE4" stroke-width="2"/>
+<ellipse cx="1084" cy="187" rx="66" ry="16" fill="none" stroke="#96FBE4" stroke-width="2"/>
+<text x="1084" y="169" font-size="16" fill="#E1FFF8">ONE LEDGER</text>
+<text x="1084" y="259" font-size="14" fill="#86E5D5">POSTGRES · RLS · RPC</text></g>
+<rect x="0" y="316" width="1280" height="4" fill="url(#accent)"/></svg>
