@@ -4,15 +4,10 @@
   <img src="./assets/cover.svg" width="100%" alt="Ved Chauhan, founder of SNOWBROS. I build the engine and the experience. Original command-center artwork." />
 </a>
 
-<a href="https://snowbros.me"><img src="https://img.shields.io/badge/SNOWBROS-FOUNDER-8B7AFF?style=flat-square&labelColor=0D1224&logo=rocket&logoColor=white" alt="SNOWBROS founder" /></a>
-<a href="https://ved.exe.snowbros.me"><img src="https://img.shields.io/badge/ENTER-VED.EXE-8AF5D7?style=flat-square&labelColor=0D1224&logo=vercel&logoColor=white" alt="Interactive portfolio" /></a>
-<a href="https://www.linkedin.com/in/ved-chauhan2107/"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-8B7AFF?style=flat-square&labelColor=0D1224&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:vedchauhan2107@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EMAIL-8AF5D7?style=flat-square&labelColor=0D1224&logo=gmail&logoColor=white" alt="Email Ved" /></a>
+**[SNOWBROS](https://snowbros.me)** &nbsp; / &nbsp; **[ENTER VED.EXE](https://ved.exe.snowbros.me)** &nbsp; / &nbsp; **[LINKEDIN](https://www.linkedin.com/in/ved-chauhan2107/)** &nbsp; / &nbsp; **[EMAIL](mailto:vedchauhan2107@gmail.com)**
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2900&pause=1000&color=9A8BFF&center=true&vCenter=true&width=730&height=40&lines=Making+software+feel+as+good+as+it+works.;Systems+thinking.+Product+instinct.+Pixel+obsession.;Less+noise.+More+engineering." alt="Making software feel as good as it works." />
-
+<img src="./assets/tagline.svg" width="730" alt="Making software feel as good as it works."/>
 <sub>AHMEDABAD, INDIA &nbsp; / &nbsp; BUILDING FOR THE INTERNET &nbsp; / &nbsp; <a href="https://github.com/snowbros-labs">SNOWBROS LABS</a></sub>
 
 </div>
@@ -23,7 +18,7 @@
 
 I'm **Ved Chauhan**, founder of **[SNOWBROS](https://snowbros.me)** — an independent software engineering studio. I work at the intersection of **deep engineering** and **expressive product design**.
 
-I build tools that understand code, products that people use, and interfaces that feel like someone cared about every detail. Sometimes that's a Rust analysis engine. Sometimes it's a cross-platform ledger. Sometimes it's a portfolio masquerading as a retro game.
+I turn complex problems into usable software — from an antimicrobial-resistance research prototype to a native media engine, direct device transfer, financial ledgers, developer tools and interactive interfaces. I build both **the system and the experience**.
 
 > **My rule:** make the core dependable, then make the experience unforgettable.
 
@@ -43,56 +38,116 @@ I build tools that understand code, products that people use, and interfaces tha
 
 ### `02 // SELECTED WORK`
 
-Not a wall of logos. A few projects with real, different problems to solve.
+A curated engineering portfolio: research, desktop software, native tools, cross-platform apps and experimental interfaces. Each card links to source; expand the captures to see real product screens.
 
-<a href="https://github.com/snowbros-labs/atlas"><img src="./assets/project-atlas.svg" width="100%" alt="Snowbros Atlas: native Rust static analyzer. Codebase to semantic intermediate representation to evidence-backed findings." /></a>
+<a href="https://github.com/amrdrugrepurposing/amr-drug-repurposing-1"><img src="./assets/project-amr.svg" width="100%" alt="AMR DRUGG computational research pipeline"/></a>
 
-**[Explore Atlas](https://github.com/snowbros-labs/atlas)** · **[Product website](https://snowbros.me/atlas)** · **[Installation](https://github.com/snowbros-labs/atlas#installation)**
+**RESEARCH PROTOTYPE** · [Research repository](https://github.com/amrdrugrepurposing/amr-drug-repurposing-1) · [Live prototype](https://amr-drug-repurposing.vercel.app)
 
-**The problem:** most linters understand individual files; serious architecture issues live *between* files. Atlas maps imports, dependencies, and framework boundaries across a project, reporting findings with an evidence trail.
+**Computational screening for antimicrobial-resistance research.** An interdisciplinary research product joining real drug data with reproducible molecular-computation workflows.
 
-- **Under the hood:** Rust, tree-sitter, shared semantic intermediate representation, incremental caching, built-in LSP, and CI-ready SARIF.
-- **Beyond style:** detects issues such as import cycles, unused dependencies, and Next.js server/client boundary leaks. Supports JavaScript/TypeScript and Python.
-- **Try it:** `npx snowbros analyze`.
+- **Pipeline:** ChEMBL and FDA sources → RDKit/Morgan fingerprints → machine-learning benchmarking → AutoDock Vina docking → clinical-context review.
+- **Quality:** source provenance, scaffold-aware validation, clear model limitations, inspectable scientific dashboard.
+- **Scientific boundary:** predictions are hypotheses for experimental validation; they are **not** proof a drug treats resistant infection.
 
-<br/>
-
-<a href="https://github.com/VED2107/accounic"><img src="./assets/project-accounic.svg" width="100%" alt="Accounic: one secure database-owned ledger powering Next.js web, Flutter Android, and Flutter Windows apps." /></a>
-
-**[Explore Accounic](https://github.com/VED2107/accounic)** · **[Latest release](https://github.com/VED2107/accounic/releases/latest)**
-
-**The problem:** money becomes unreliable when different clients each invent their own accounting rules. Accounic puts the calculations in PostgreSQL, not in the interface.
-
-- **One contract, three clients:** Next.js web app, Flutter Android, and Flutter Windows.
-- **Correctness first:** entered currency preserved, settlement rules enforced, validated RPCs, row-level security, and automated tests.
-- **Design detail:** interface inspired by financial instruments — typography, seals, counterfoils, and meaningful state.
+<details><summary>↳ See the real product interface</summary><br/>
+<img src="https://raw.githubusercontent.com/VED2107/snowbros/main/public/work/amr-d.jpg" width="760" alt="Actual SNOWBROS AMR screening site screenshot."/>
+<br/><sub>Capture from the <a href="https://github.com/VED2107/snowbros/tree/main/public/work">SNOWBROS studio work gallery</a></sub>
+</details>
 
 <br/>
+<a href="https://github.com/VED2107/nova"><img src="./assets/project-nova.svg" width="100%" alt="NOVA native desktop media player"/></a>
 
-<a href="https://ved.exe.snowbros.me"><img src="./assets/project-vedexe.svg" width="100%" alt="VED.EXE: playful interactive developer portfolio with terminal visuals, game mechanics, and custom motion." /></a>
+**WINDOWS WORK IN PROGRESS** · [Source & status](https://github.com/VED2107/nova) · [NOVA site](https://nova.snowbros.me)
 
-**[Launch VED.EXE](https://ved.exe.snowbros.me)** · **[Explore source](https://github.com/VED2107/portfolio)**
+**A privacy-first media player that shows what the engine really knows.** Built with Rust, Tauri 2, React and native libmpv rendering.
 
-**The idea:** a portfolio doesn't have to feel like a static résumé. VED.EXE treats developer identity as an interactive world — CRT-inspired interfaces, terminal aesthetics, game mechanics, and expressive motion, built with Next.js, React, TypeScript, and GSAP.
+- **Playback:** engine-confirmed controls, hardware-decoder fallback, frame-accurate seeking, A–B loops, and media queue.
+- **Library:** local SQLite resume, background scanning, full-text search, offline operation — no account or telemetry.
+- **Status:** Windows preview only; repository explicitly says it is **not ready for end users**. Mobile is experimental.
+
+<details><summary>↳ See the real product interface</summary><br/>
+<img src="https://raw.githubusercontent.com/VED2107/snowbros/main/public/work/nova-d.jpg" width="760" alt="Actual NOVA project site preview."/>
+<br/><sub>Capture from the <a href="https://github.com/VED2107/snowbros/tree/main/public/work">SNOWBROS studio work gallery</a></sub>
+</details>
+
+<br/>
+<a href="https://github.com/VED2107/swiftdrop"><img src="./assets/project-swiftdrop.svg" width="100%" alt="SwiftDrop local Wi-Fi file transfer"/></a>
+
+**CROSS-DEVICE PRODUCT** · [Source & installation](https://github.com/VED2107/swiftdrop) · [SwiftDrop site](https://swiftdrop.snowbros.me)
+
+**Send photos and files directly between a phone and PC over local Wi-Fi.** No cloud storage, no account and no phone installation required for the iPhone browser flow.
+
+- **Architecture:** native Windows/Android builds, Node-based PC endpoint, browser pairing via QR and explicit PC approval.
+- **Engineering:** parallel chunk transfers, streaming writes, resume and integrity tests; PC-to-phone data streams from disk.
+- **Separate experiment:** a phone-to-phone path uses WebRTC; it is not the main Windows-PC transfer protocol.
+
+<details><summary>↳ See the real product interface</summary><br/>
+<img src="https://raw.githubusercontent.com/VED2107/snowbros/main/public/work/swiftdrop-d.jpg" width="760" alt="Actual SwiftDrop transfer product preview."/>
+<br/><sub>Capture from the <a href="https://github.com/VED2107/snowbros/tree/main/public/work">SNOWBROS studio work gallery</a></sub>
+</details>
+
+<br/>
+<a href="https://github.com/VED2107/accounic"><img src="./assets/project-accounic.svg" width="100%" alt="Accounic ledger web Android and Windows"/></a>
+
+**CROSS-PLATFORM RELEASE** · [Source](https://github.com/VED2107/accounic) · [Latest releases](https://github.com/VED2107/accounic/releases/latest)
+
+**One financial ledger, three client experiences.** The database — not each client — owns every accounting balance.
+
+- **Clients:** Next.js browser application plus Flutter Android and Windows.
+- **Data contracts:** currency-of-record, FIFO settlement allocation, validated RPCs and PostgreSQL/Supabase row-level security.
+- **Verification:** SQL assertions and real-HTTP tenant-isolation checks; deliberate release approvals.
+
+<details><summary>↳ See the real product interface</summary><br/>
+<img src="https://raw.githubusercontent.com/VED2107/snowbros/main/public/work/accounic-d.jpg" width="760" alt="Accounic real interface capture."/>
+<br/><sub>Capture from the <a href="https://github.com/VED2107/snowbros/tree/main/public/work">SNOWBROS studio work gallery</a></sub>
+</details>
+
+<br/>
+<a href="https://github.com/snowbros-labs/atlas"><img src="./assets/project-atlas.svg" width="100%" alt="Snowbros Atlas native code analysis"/></a>
+
+**OPEN SOURCE DEVELOPER TOOL** · [Source & setup](https://github.com/snowbros-labs/atlas) · [Documentation](https://github.com/snowbros-labs/atlas#contents)
+
+**A Rust codebase analyzer for the problems that exist between files.** Shared semantic representation, evidence-backed findings and deterministic analysis.
+
+- **Architecture:** Rust, tree-sitter, incremental caching, LSP, editor integration and SARIF reporting.
+- **Coverage:** import cycles, dependency/dead-file issues and Next.js server/client boundary mistakes across JavaScript/TypeScript and Python.
+- **Run:** `npx snowbros analyze`.
+
+<details><summary>↳ See the real product interface</summary><br/>
+<img src="https://raw.githubusercontent.com/VED2107/snowbros/main/public/work/atlas-d.jpg" width="760" alt="Atlas real static analysis report."/>
+<br/><sub>Capture from the <a href="https://github.com/VED2107/snowbros/tree/main/public/work">SNOWBROS studio work gallery</a></sub>
+</details>
+
+<br/>
+<a href="https://ved.exe.snowbros.me"><img src="./assets/project-vedexe.svg" width="100%" alt="VED.EXE interactive retro developer portfolio"/></a>
+
+**INTERACTIVE PERSONAL PORTFOLIO** · [Play VED.EXE](https://ved.exe.snowbros.me) · [Source](https://github.com/VED2107/portfolio)
+
+**A portfolio as a playable experience.** Terminal mechanics, CRT-inspired styling, RPG interactions and GSAP motion built with Next.js and TypeScript.
 
 <br/>
 
 <details>
-<summary><b>+ UNLOCK THE SIDE QUESTS / OTHER BUILDS</b></summary>
+<summary><b>+ UNLOCK THE REST OF THE STUDIO / PROJECT INDEX</b></summary>
 
 <br/>
 
-| Project | What it is | Link |
+| Project | What we built | Explore |
 |:--|:--|:--|
-| **Mentor** | Engineering skill for Claude Code with focused TEACH and BUILD workflows. | [Open source](https://github.com/snowbros-labs/mentor-skill) |
-| **Vinnys Vogue** | Luxury fashion commerce, orders, and storefront operations. | [Website](https://www.vinnysvogue.in) |
-| **Lunora Studio** | Cinematic handmade-bouquet commerce and storytelling. | [Source](https://github.com/VED2107/lunora-studio) |
-| **STC** | Student education and attendance platform. | [Source](https://github.com/VED2107/STC) |
-| **Filmica** | Flutter camera experience with film-inspired effects. | [Source](https://github.com/VED2107/filmica) |
+| **STC Academy** | Education site and command center for academic attendance, fees and administration. | [Source](https://github.com/VED2107/STC) |
+| **Lumen TV** | Cinematic Android TV launcher, remote-first T9 search and lightweight native rendering. | [Source](https://github.com/VED2107/lumen-tv) |
+| **Creative Engineering** | Open-source SNOWBROS interaction/design toolkit and live lab. | [Source](https://github.com/snowbros-labs/creative-engineering) |
+| **Mentor** | Claude Code skill with focused TEACH/BUILD orchestration. | [Source](https://github.com/snowbros-labs/mentor-skill) |
+| **Vinnys Vogue** | Luxury fashion storefront and order operations. | [Website](https://www.vinnysvogue.in) |
+| **Lunora Studio** | Bouquet commerce experience with cinematic GSAP storytelling. | [Source](https://github.com/VED2107/lunora-studio) |
+| **Filmica** | Flutter camera experience exploring film-inspired visual effects. | [Source](https://github.com/VED2107/filmica) |
 
 </details>
 
----
+#### `RESEARCH // RECOGNITION`
+
+The AMR platform was acknowledged in a **Letter of Appreciation** by Shree S. K. Patel College of Pharmaceutical Education & Research, Ganpat University, as documented in my [LinkedIn project update](https://www.linkedin.com/in/ved-chauhan2107/). This recognizes a software engineering contribution to research — **not clinical validation** of any prediction.
 
 ### `03 // THE TOOLBOX`
 
@@ -107,7 +162,9 @@ Not a wall of logos. A few projects with real, different problems to solve.
 | **Practices** | Architecture · security · testing · performance · interaction design |
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=rust,ts,python,nextjs,react,tailwind,flutter,supabase,postgres,docker,git&perline=11&theme=dark" alt="Rust, TypeScript, Python, Next.js, React, Tailwind, Flutter, Supabase, PostgreSQL, Docker and Git" />
+
+`RUST` · `TYPESCRIPT` · `PYTHON` · `NEXT.JS` · `REACT` · `FLUTTER` · `POSTGRESQL` · `SUPABASE` · `DOCKER`
+
 </div>
 
 <details>
@@ -131,10 +188,11 @@ Not a wall of logos. A few projects with real, different problems to solve.
 
 <div align="center">
 
-<a href="https://github.com/VED2107?tab=repositories"><img height="166" src="https://github-readme-stats.vercel.app/api?username=VED2107&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1325&title_color=A899FF&icon_color=83EDD6&text_color=D6E2F5" alt="GitHub statistics" /></a>
-<a href="https://github.com/VED2107?tab=repositories"><img height="166" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VED2107&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1325&title_color=A899FF&text_color=D6E2F5&langs_count=7" alt="Programming language proportions across public repositories" /></a>
+<a href="https://github.com/VED2107?tab=repositories">
+<img src="https://raw.githubusercontent.com/VED2107/VED2107/output/profile-signal.svg" width="100%" alt="Public GitHub repository metrics and primary languages, refreshed by GitHub Actions"/>
+</a>
 
-<sub>Automated GitHub metadata, not a score of engineering ability.</sub>
+<sub>Original SVG graphics generated by <a href="./scripts/generate_profile.py">our own source code</a> every 12 hours from GitHub's public REST API. No external stats servers or invented contributions.</sub>
 
 </div>
 
@@ -147,13 +205,10 @@ Not a wall of logos. A few projects with real, different problems to solve.
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VED2107/VED2107/output/github-contribution-grid-snake-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VED2107/VED2107/output/github-contribution-grid-snake.svg" />
-<img src="https://raw.githubusercontent.com/VED2107/VED2107/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake generated automatically from Ved's GitHub activity" />
+<img src="https://raw.githubusercontent.com/VED2107/VED2107/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation"/>
 </picture>
 </div>
-
 </details>
-
----
 
 ### `05 // OPEN CHANNEL`
 
@@ -167,6 +222,6 @@ Not a wall of logos. A few projects with real, different problems to solve.
 
 <a href="mailto:vedchauhan2107@gmail.com"><img src="./assets/signoff.svg" width="100%" alt="Let's build what doesn't exist yet. Contact Ved Chauhan and SNOWBROS." /></a>
 
-<sub>Original SVG art, GitHub-native Markdown interactions, no scripts or artificial activity.</sub>
+<sub>Original vector artwork, real project captures, and [reproducible GitHub signal generation](./scripts/generate_profile.py).</sub>
 
 </div>
