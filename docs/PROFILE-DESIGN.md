@@ -4,8 +4,12 @@ This repository is the public GitHub profile of VED2107. The source is deliberat
 GitHub-native Markdown and first-party vector artwork.
 
 ## Visual system
-- Midnight blue (#0B1223), electric violet (#A18FFF), mint (#80EBD1).
-- Hero and project banners are editable `assets/*.svg`, linked locally.
+- The SNOWBROS identity: Ink (#111110), Paper (#F2F0EB), Signal (#FF4F1F), the Hex S
+  symbol, Archivo for display and Geist for text. Brand kit: `VED2107/snowbros/brand`.
+- Each product card keeps its own tone from the studio site (snowbros.me work section),
+  with the same line-drawn emblem.
+- `scripts/build_art.py` regenerates every `assets/*.svg`; text is outlined from the fonts
+  because GitHub's image sandbox cannot load web fonts. Edit the script, not the SVGs.
 - Real product screenshots are hosted in `VED2107/snowbros/public/work`.
 - Never present research predictions as medical efficacy, or unfinished builds as releases.
 

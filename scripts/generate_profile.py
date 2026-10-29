@@ -76,21 +76,21 @@ def calculate_signal(repos: list[dict], today: dt.date) -> dict:
 
 def render_svg(data: dict) -> str:
     """Render static SVG; inputs escape XML and there are no external SVG dependencies."""
-    def text(x, y, value, size=15, color="#E5EFFF", weight=400):
+    def text(x, y, value, size=15, color="#F2F0EB", weight=400):
         return (f'<text x="{x}" y="{y}" fill="{color}" font-size="{size}"'
-                f' font-family="Arial,Helvetica,sans-serif" font-weight="{weight}">'
+                f' font-family="Segoe UI,Helvetica,Arial,sans-serif" font-weight="{weight}">'
                 f'{escape(str(value))}</text>')
     markup = [
         '<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="320"'
         ' viewBox="0 0 1160 320" role="img">',
         '<title>VED2107: public GitHub metrics and languages</title>',
         '<desc>Public repository count, total stars, recent pushes, and primary languages from owned original repositories.</desc>',
-        '<rect width="1160" height="320" rx="20" fill="#0B1223"/>',
-        '<rect x="18" y="17" width="1124" height="285" rx="16" fill="#141E31" stroke="#7766CA"/>',
-        '<circle cx="34" cy="43" r="5" fill="#80EDD2"/>',
-        text(51, 48, "PUBLIC SIGNAL / GITHUB API", 15, "#9CFAE4", 700),
-        text(903, 48, "UPDATED " + data["date"], 13, "#A4B2D2"),
-        '<path d="M20 66H1140" stroke="#475373"/>'
+        '<rect width="1160" height="320" rx="20" fill="#111110"/>',
+        '<rect x="18" y="17" width="1124" height="285" rx="16" fill="#1A1918" stroke="#2E2C29"/>',
+        '<circle cx="34" cy="43" r="5" fill="#FF4F1F"/>',
+        text(51, 48, "PUBLIC SIGNAL / GITHUB API", 15, "#F2F0EB", 700),
+        text(903, 48, "UPDATED " + data["date"], 13, "#8C887F"),
+        '<path d="M20 66H1140" stroke="#2E2C29"/>'
     ]
     metrics = [
         ("PUBLIC REPOS", data["public_repositories"]),
@@ -99,30 +99,30 @@ def render_svg(data: dict) -> str:
     ]
     for i, (label, number) in enumerate(metrics):
         x = 43 + i * 205
-        markup.extend([text(x, 136, number, 52, "#F5F7FF", 800),
-                       text(x, 165, label, 13, "#ABB8D6", 700)])
+        markup.extend([text(x, 136, number, 52, "#F2F0EB", 800),
+                       text(x, 165, label, 13, "#8C887F", 700)])
         if i < 2:
-            markup.append(f'<path d="M{x + 182} 94V174" stroke="#56637E"/>')
+            markup.append(f'<path d="M{x + 182} 94V174" stroke="#2E2C29"/>')
     markup.extend([
-        text(43, 218, "LANGUAGE SIGNATURE", 14, "#A99BFF", 700),
-        text(43, 245, "Primary languages of original public repositories", 13, "#B1C0DD"),
-        text(43, 276, "Public GitHub metadata only. No private contributions or synthetic scores.", 12, "#899ABB"),
-        '<path d="M672 85V284" stroke="#4E5B76"/>'
+        text(43, 218, "LANGUAGE SIGNATURE", 14, "#FF4F1F", 700),
+        text(43, 245, "Primary languages of original public repositories", 13, "#C9C5BC"),
+        text(43, 276, "Public GitHub metadata only. No private contributions or synthetic scores.", 12, "#8C887F"),
+        '<path d="M672 85V284" stroke="#2E2C29"/>'
     ])
     languages = data["languages"]
     top = max((count for _, count in languages), default=1)
     if not languages:
-        markup.append(text(704, 142, "No public language data", 16, "#A5B5D4"))
+        markup.append(text(704, 142, "No public language data", 16, "#C9C5BC"))
     for index, (language, count) in enumerate(languages):
         y = 96 + index * 37
         markup.extend([
-            text(703, y + 14, language[:15], 14, "#EEF2FF"),
-            f'<rect x="835" y="{y}" width="228" height="19" rx="9" fill="#2F3C51"/>',
+            text(703, y + 14, language[:15], 14, "#F2F0EB"),
+            f'<rect x="835" y="{y}" width="228" height="19" rx="2" fill="#2E2C29"/>',
             f'<rect x="835" y="{y}" width="{max(6, round(228 * count / top))}"'
-            f' height="19" rx="9" fill="{"#81EAD0" if index == 0 else "#9783F2"}"/>',
-            text(1082, y + 15, count, 13, "#F2F2FF", 700),
+            f' height="19" rx="2" fill="{"#FF4F1F" if index == 0 else "#C9C5BC"}"/>',
+            text(1082, y + 15, count, 13, "#F2F0EB", 700),
         ])
-    markup.append('<rect x="0" y="315" width="1160" height="5" fill="#A18FFF"/>')
+    markup.append('<rect x="0" y="315" width="1160" height="5" fill="#FF4F1F"/>')
     markup.append("</svg>")
     return "\n".join(markup) + "\n"
 

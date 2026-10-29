@@ -6,9 +6,7 @@
 
 **[SNOWBROS](https://snowbros.me)** &nbsp; / &nbsp; **[ENTER VED.EXE](https://ved.exe.snowbros.me)** &nbsp; / &nbsp; **[LINKEDIN](https://www.linkedin.com/in/ved-chauhan2107/)** &nbsp; / &nbsp; **[EMAIL](mailto:vedchauhan2107@gmail.com)**
 
-<br/>
-<img src="./assets/tagline.svg" width="730" alt="Making software feel as good as it works."/>
-<sub>AHMEDABAD, INDIA &nbsp; / &nbsp; BUILDING FOR THE INTERNET &nbsp; / &nbsp; <a href="https://github.com/snowbros-labs">SNOWBROS LABS</a></sub>
+<sub>PATAN, GUJARAT, INDIA &nbsp; / &nbsp; WORKING WORLDWIDE &nbsp; / &nbsp; <a href="https://github.com/snowbros-labs">SNOWBROS ON GITHUB</a> &nbsp; / &nbsp; <a href="https://www.linkedin.com/company/snowbros-studio/">SNOWBROS ON LINKEDIN</a></sub>
 
 </div>
 
@@ -139,6 +137,7 @@ A curated engineering portfolio: research, desktop software, native tools, cross
 | **Lumen TV** | Cinematic Android TV launcher, remote-first T9 search and lightweight native rendering. | [Source](https://github.com/VED2107/lumen-tv) |
 | **Creative Engineering** | Open-source SNOWBROS interaction/design toolkit and live lab. | [Source](https://github.com/snowbros-labs/creative-engineering) |
 | **Mentor** | Claude Code skill with focused TEACH/BUILD orchestration. | [Source](https://github.com/snowbros-labs/mentor-skill) |
+| **Vinny's Atelier** | The retail system a fashion boutique bills on every day: offline-first till, Razorpay UPI, 268 tests. | [Live](https://atelier.vinnysvogue.in) |
 | **Vinnys Vogue** | Luxury fashion storefront and order operations. | [Website](https://www.vinnysvogue.in) |
 | **Lunora Studio** | Bouquet commerce experience with cinematic GSAP storytelling. | [Source](https://github.com/VED2107/lunora-studio) |
 | **Filmica** | Flutter camera experience exploring film-inspired visual effects. | [Source](https://github.com/VED2107/filmica) |
@@ -216,12 +215,12 @@ The AMR platform was acknowledged in a **Letter of Appreciation** by Shree S. K.
 
 <div align="center">
 
-**[VISIT SNOWBROS](https://snowbros.me)** &nbsp; · &nbsp; **[OPEN VED.EXE](https://ved.exe.snowbros.me)** &nbsp; · &nbsp; **[LINKEDIN](https://www.linkedin.com/in/ved-chauhan2107/)** &nbsp; · &nbsp; **[EMAIL ME](mailto:vedchauhan2107@gmail.com)**
+**[START A PROJECT](https://snowbros.me/#contact)** &nbsp; · &nbsp; **[OPEN VED.EXE](https://ved.exe.snowbros.me)** &nbsp; · &nbsp; **[LINKEDIN](https://www.linkedin.com/in/ved-chauhan2107/)** &nbsp; · &nbsp; **[EMAIL ME](mailto:vedchauhan2107@gmail.com)**
 
 <br/>
 
 <a href="mailto:vedchauhan2107@gmail.com"><img src="./assets/signoff.svg" width="100%" alt="Let's build what doesn't exist yet. Contact Ved Chauhan and SNOWBROS." /></a>
 
-<sub>Original vector artwork, real project captures, and [reproducible GitHub signal generation](./scripts/generate_profile.py).</sub>
+<sub>Artwork in the SNOWBROS identity, [built from source](./scripts/build_art.py) · real project captures · [reproducible GitHub signal](./scripts/generate_profile.py).</sub>
 
 </div>
