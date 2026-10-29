@@ -137,7 +137,7 @@ A curated engineering portfolio: research, desktop software, native tools, cross
 | **Lumen TV** | Cinematic Android TV launcher, remote-first T9 search and lightweight native rendering. | [Source](https://github.com/VED2107/lumen-tv) |
 | **Creative Engineering** | Open-source SNOWBROS interaction/design toolkit and live lab. | [Source](https://github.com/snowbros-labs/creative-engineering) |
 | **Mentor** | Claude Code skill with focused TEACH/BUILD orchestration. | [Source](https://github.com/snowbros-labs/mentor-skill) |
-| **Vinny's Atelier** | The retail system a fashion boutique bills on every day: offline-first till, Razorpay UPI, 268 tests. | [Live](https://atelier.vinnysvogue.in) |
+| **Vinny's Atelier** | The retail system a fashion boutique bills on every day: offline-first till, Razorpay UPI, 268 tests. | Private client system |
 | **Vinnys Vogue** | Luxury fashion storefront and order operations. | [Website](https://www.vinnysvogue.in) |
 | **Lunora Studio** | Bouquet commerce experience with cinematic GSAP storytelling. | [Source](https://github.com/VED2107/lunora-studio) |
 | **Filmica** | Flutter camera experience exploring film-inspired visual effects. | [Source](https://github.com/VED2107/filmica) |
