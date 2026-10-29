@@ -1,34 +1,50 @@
-name: Generate contribution snake
+name: Profile visuals
 
-# Regenerates the animated contribution-snake SVGs used in the profile README
-# and publishes them to the `output` branch, where the README references them.
-
+# Snake and signal share one publisher; neither can erase the other's assets.
 on:
-  schedule:
-    # every 12 hours
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: "14 */12 * * *"
+  workflow_dispatch:
 
-permissions:
-  contents: write
+concurrency:
+  group: profile-visuals-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
-  generate:
+  validate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    permissions:
+      contents: read
     steps:
-      - name: Generate snake SVGs
+      - uses: actions/checkout@v4
+      - name: Run profile visual generator tests
+        run: python3 -m unittest discover -s tests -v
+
+  publish:
+    if: github.event_name != 'pull_request'
+    needs: validate
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate first-party public GitHub signal
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/generate_profile.py --output-dir dist
+      - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Publish to the output branch
+      - name: Publish all profile SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
