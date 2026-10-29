@@ -357,12 +357,14 @@ def build_org(display: Face, title: Face, body: Face, label: Face) -> None:
     parts = [f'<rect width="{W}" height="{H}" rx="16" fill="{PAPER}"/>',
              text(label, "HOW WE BUILD", 56, 64, 13, "#B8340D", .16)]
     colw = (W - 112) / 4
+    # one heading size for all four, set by the longest so none crowds its neighbour
+    head_size = min(20, min(20 * (colw - 36) / title.width(h, 20) for _, h, _ in rules))
     for i, (num, head, line) in enumerate(rules):
         x = 56 + i * colw
         parts += [
             f'<path d="M{n(x)},104H{n(x + colw - 24)}" stroke="{INK}" stroke-width="2"/>',
             rise(text(display, num, x, 170, 34, SIGNAL, .01), .2 + i * .12),
-            rise(text(title, head, x, 228, 20, INK, 0), .3 + i * .12),
+            rise(text(title, head, x, 228, head_size, INK, 0), .3 + i * .12),
         ]
         words, lines, cur = line.split(), [], ""
         for w_ in words:
