@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="320" viewBox="0 0 1160 320" role="img">
+<title>VED2107: public GitHub metrics and languages</title>
+<desc>Public repository count, total stars, recent pushes, and primary languages from owned original repositories.</desc>
+<rect width="1160" height="320" rx="20" fill="#111110"/>
+<rect x="18" y="17" width="1124" height="285" rx="16" fill="#1A1918" stroke="#2E2C29"/>
+<circle cx="34" cy="43" r="5" fill="#FF4F1F"/>
+<text x="51" y="48" fill="#F2F0EB" font-size="15" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-weight="700">PUBLIC SIGNAL / GITHUB API</text>
+<text x="903" y="48" fill="#8C887F" font-size="13" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-weight="400">UPDATED 2026-10-31</text>
+<path d="M20 66H1140" stroke="#2E2C29"/>
+<text x="43" y="136" fill="#F2F0EB" font-size="52" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-weight="800">14</text>
+<text x="43" y="165" fill="#8C887F" font-size="13" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-weight="700">PUBLIC REPOS</text>
+<path d="M225 94V174" stroke="#2E2C29"/>
+<text x="248" y="136" fill="#F2F0EB" font-size="52" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-weight="800">10</text>
+<text x="248" y="165" fill="#8C887F" font-size="13" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-weight="700">TOTAL STARS</text>
+<path d="M430 94V174" stroke="#2E2C29"/>
+<text x="453" y="136" fill="#F2F0EB" font-size="52" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-weight="800">7</text>
+<text x="453" y="165" fill="#8C887F" font-size="13" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-weight="700">PUSHED IN 30D</text>
+<text x="43" y="218" fill="#FF4F1F" font-size="14" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-weight="700">LANGUAGE SIGNATURE</text>
+<text x="43" y="245" fill="#C9C5BC" font-size="13" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-weight="400">Primary languages of original public repositories</text>
+<text x="43" y="276" fill="#8C887F" font-size="12" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-weight="400">Public GitHub metadata only. No private contributions or synthetic scores.</text>
+<path d="M672 85V284" stroke="#2E2C29"/>
+<text x="703" y="110" fill="#F2F0EB" font-size="14" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-weight="400">TypeScript</text>
+<rect x="835" y="96" width="228" height="19" rx="2" fill="#2E2C29"/>
+<rect x="835" y="96" width="228" height="19" rx="2" fill="#FF4F1F"/>
+<text x="1082" y="111" fill="#F2F0EB" font-size="13" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-weight="700">6</text>
+<text x="703" y="147" fill="#F2F0EB" font-size="14" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-weight="400">Dart</text>
+<rect x="835" y="133" width="228" height="19" rx="2" fill="#2E2C29"/>
+<rect x="835" y="133" width="114" height="19" rx="2" fill="#C9C5BC"/>
+<text x="1082" y="148" fill="#F2F0EB" font-size="13" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-weight="700">3</text>
+<text x="703" y="184" fill="#F2F0EB" font-size="14" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-weight="400">HTML</text>
+<rect x="835" y="170" width="228" height="19" rx="2" fill="#2E2C29"/>
+<rect x="835" y="170" width="38" height="19" rx="2" fill="#C9C5BC"/>
+<text x="1082" y="185" fill="#F2F0EB" font-size="13" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-weight="700">1</text>
+<text x="703" y="221" fill="#F2F0EB" font-size="14" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-weight="400">Python</text>
+<rect x="835" y="207" width="228" height="19" rx="2" fill="#2E2C29"/>
+<rect x="835" y="207" width="38" height="19" rx="2" fill="#C9C5BC"/>
+<text x="1082" y="222" fill="#F2F0EB" font-size="13" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-weight="700">1</text>
+<rect x="0" y="315" width="1160" height="5" fill="#FF4F1F"/>
+</svg>
