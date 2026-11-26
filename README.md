@@ -1,10 +1,10 @@
 <div align="center">
 
-<a href="https://ved.exe.snowbros.me" title="Launch the interactive developer portfolio">
+<a href="https://ved.snowbros.me" title="Launch the interactive developer portfolio">
   <img src="./assets/cover.svg" width="100%" alt="Ved Chauhan, founder of SNOWBROS. I build the engine and the experience. Original command-center artwork." />
 </a>
 
-**[SNOWBROS](https://snowbros.me)** &nbsp; / &nbsp; **[ENTER VED.EXE](https://ved.exe.snowbros.me)** &nbsp; / &nbsp; **[LINKEDIN](https://www.linkedin.com/in/ved-chauhan2107/)** &nbsp; / &nbsp; **[EMAIL](mailto:vedchauhan2107@gmail.com)**
+**[SNOWBROS](https://snowbros.me)** &nbsp; / &nbsp; **[ENTER VED.EXE](https://ved.snowbros.me)** &nbsp; / &nbsp; **[LINKEDIN](https://www.linkedin.com/in/ved-chauhan2107/)** &nbsp; / &nbsp; **[EMAIL](mailto:vedchauhan2107@gmail.com)**
 
 <sub>PATAN, GUJARAT, INDIA &nbsp; / &nbsp; WORKING WORLDWIDE &nbsp; / &nbsp; <a href="https://github.com/snowbros-labs">SNOWBROS ON GITHUB</a> &nbsp; / &nbsp; <a href="https://www.linkedin.com/company/snowbros-studio/">SNOWBROS ON LINKEDIN</a></sub>
 
@@ -118,9 +118,9 @@ A curated engineering portfolio: research, desktop software, native tools, cross
 </details>
 
 <br/>
-<a href="https://ved.exe.snowbros.me"><img src="./assets/project-vedexe.svg" width="100%" alt="VED.EXE interactive retro developer portfolio"/></a>
+<a href="https://ved.snowbros.me"><img src="./assets/project-vedexe.svg" width="100%" alt="VED.EXE interactive retro developer portfolio"/></a>
 
-**INTERACTIVE PERSONAL PORTFOLIO** · [Play VED.EXE](https://ved.exe.snowbros.me) · [Source](https://github.com/VED2107/portfolio)
+**INTERACTIVE PERSONAL PORTFOLIO** · [Play VED.EXE](https://ved.snowbros.me) · [Source](https://github.com/VED2107/portfolio)
 
 **A portfolio as a playable experience.** Terminal mechanics, CRT-inspired styling, RPG interactions and GSAP motion built with Next.js and TypeScript.
 
@@ -215,7 +215,7 @@ The AMR platform was acknowledged in a **Letter of Appreciation** by Shree S. K.
 
 <div align="center">
 
-**[START A PROJECT](https://snowbros.me/#contact)** &nbsp; · &nbsp; **[OPEN VED.EXE](https://ved.exe.snowbros.me)** &nbsp; · &nbsp; **[LINKEDIN](https://www.linkedin.com/in/ved-chauhan2107/)** &nbsp; · &nbsp; **[EMAIL ME](mailto:vedchauhan2107@gmail.com)**
+**[START A PROJECT](https://snowbros.me/#contact)** &nbsp; · &nbsp; **[OPEN VED.EXE](https://ved.snowbros.me)** &nbsp; · &nbsp; **[LINKEDIN](https://www.linkedin.com/in/ved-chauhan2107/)** &nbsp; · &nbsp; **[EMAIL ME](mailto:vedchauhan2107@gmail.com)**
 
 <br/>
 
